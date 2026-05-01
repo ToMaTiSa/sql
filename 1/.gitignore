@@ -1,0 +1,4 @@
+pg_credenciales.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
